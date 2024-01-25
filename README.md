@@ -18,5 +18,5 @@ Ensuite pour démarrer l'un des exercices, vous devez être dans le dossier pré
 
 
 ```bash
-nodes [nom_exercice].js
+node [nom_exercice].js
 ```
