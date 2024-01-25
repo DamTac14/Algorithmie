@@ -14,3 +14,9 @@ npm install readline
 npm install readline-sync
 ```
 
+Ensuite pour démarrer l'un des exercices, vous devez être dans le dossier présent et écrire dans le terminal 
+
+
+```bash
+nodes [nom_exercice].js
+```
