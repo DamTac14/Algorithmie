@@ -9,9 +9,8 @@ Ces exercices sont codés et exécutés en JavaScript par choix personnel.
 * Installer les modules dans le terminal du logiciel (Visual Studio Code)
 
 ```bash
-npm install readline```
+npm install readline
 
-
-```bash
-npm install readline-sync```
+npm install readline-sync
+```
 
